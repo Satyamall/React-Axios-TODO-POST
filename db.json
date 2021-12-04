@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "Satya",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Learn React ",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn axios",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn Java",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn CSS",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Learn HTML",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
